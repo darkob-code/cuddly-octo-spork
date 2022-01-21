@@ -1,1 +1,2 @@
-Simple Python calculator.
+1. Simple Python calculator.
+2. square_circle
