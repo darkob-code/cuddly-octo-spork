@@ -1,1 +1,1 @@
-# cuddly-octo-spork
+Simple Python calculator.
